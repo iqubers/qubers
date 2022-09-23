@@ -25,5 +25,5 @@ Scripts:
    - Fermionic operators in second quantization can be mapped to qubit operators, which means we can express Hamiltonians as quantum circuits naturally. In this simple example we set a 5-sites TB hamiltonian with 1 defect site and calculate it's time evolution from a determined initial state.
 
 5. Hydrogen molecule dissociation profile
-   - to be uploaded soon...
+   - H2_PES.py
    - Setup a hydrogen molecule, and calculate it's ground state energy for various bond lengths with different methods. How does the quantum eigensolver fares in this variational problem?
