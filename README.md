@@ -14,7 +14,7 @@ Scripts:
 2. The quantum weirdness of entanglement 101:
    - *two_coins_entangled.py*
    - If we can entangle two coins (qubits) so they are always in the same state no matter what (Hadamard + CNOT gates), if one is measured, the other is known. We have a so called Bell pair now.
-   - That doesn't sound special or weird, right? What about if we could give one of the entangle qubits to someone at a distant place? ...
+   - That doesn't sound special or weird, right? What if we could give one of the entangled qubits to someone at a distant place? ...
  
 3. Teleportation (mic drops):
    - not  yet
